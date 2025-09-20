@@ -2,32 +2,51 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Développeur+Full+Stack;Passionné+de+Tech;Toujours+en+apprentissage;Welcome+to+my+GitHub!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=🚀+Développeur+Full+Stack;💡+Créateur+de+Solutions+Éthiques;🌱+Apprentissage+Continu;🤝+Open+Source+Enthusiast;✨+Code+with+Purpose;🌍+Building+for+a+Better+World)
 
 </div>
 
 ## 🚀 À propos de moi
 
-Développeur passionné par la création de solutions innovantes et l'exploration de nouvelles technologies. J'aime transformer des idées en code et résoudre des problèmes complexes avec élégance.
+**Développeur Full-Stack passionné** par la création de solutions **éthiques** et **durables**. Je crois fermement que la technologie doit servir l'humanité et contribuer à un monde meilleur. Mon approche combine **innovation technique** et **responsabilité sociale**.
 
-- 🔭 Je travaille actuellement sur des projets **full-stack** et **open source**
-- 🌱 J'apprends constamment de nouvelles technologies et frameworks
-- 👯 Je cherche à collaborer sur des projets **innovants** et **impactants**
-- 💬 Demandez-moi des choses sur **JavaScript**, **Python**, **React**, **Node.js**
-- ⚡ Fun fact: Je pense que le meilleur code est celui qui n'a pas besoin d'être écrit !
+### 🎯 Ma Mission
+> Créer du code qui compte, des applications qui inspirent, et des solutions qui respectent la vie privée et l'environnement.
+
+### 🔥 Ce qui me motive
+- 🔭 **Projets actuels**: Solutions **full-stack** éco-responsables et **open source**
+- 🌱 **Apprentissage**: Toujours à la pointe des technologies émergentes
+- 🤝 **Collaboration**: Projets à **impact positif** et **inclusive by design**
+- 🛡️ **Éthique**: Développement respectueux de la **vie privée** et de la **sécurité**
+- 🌍 **Durabilité**: Code optimisé pour réduire l'empreinte carbone
+- 💬 **Expertise**: **C/C++**, **Java Spring Boot**, **PHP (Laravel/Symfony)**, **JavaScript**, **Python**
+- ⚡ **Philosophy**: "Le meilleur code respecte à la fois l'utilisateur et la planète!"
 
 ## 🛠️ Technologies & Outils
 
 <div align="center">
 
+### 💻 Langages de Programmation
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### 🔧 Frameworks & Bibliothèques
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/-Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### 🛠️ Outils & DevOps
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -46,9 +65,21 @@ Développeur passionné par la création de solutions innovantes et l'exploratio
 
 </div>
 
+## � Valeurs & Éthique
+
+<div align="center">
+
+| 🛡️ **Sécurité** | 🌍 **Durabilité** | 🤝 **Inclusivité** | 🔒 **Vie Privée** |
+|:---:|:---:|:---:|:---:|
+| Code sécurisé par design | Green coding practices | Accessible à tous | Privacy by design |
+| Tests rigoureux | Optimisation énergétique | UI/UX inclusive | Données protégées |
+| Vulnérabilités = 0 | Code éco-responsable | Diversité & égalité | RGPD compliant |
+
+</div>
+
 ## 🎯 Projets en vedette
 
-<!-- Vous pouvez épingler vos meilleurs repositories et ils apparaîtront automatiquement -->
+<!-- Mes repositories épinglés montrent mon engagement pour un code éthique et performant -->
 
 ## 🌐 Connectons-nous
 
@@ -65,9 +96,15 @@ Développeur passionné par la création de solutions innovantes et l'exploratio
 
 <div align="center">
 
-*"Le code est comme l'humour. Quand il faut l'expliquer, c'est qu'il n'est pas bon."*
+*"La technologie est mieux quand elle rapproche les gens."*
 
-**– Cory House**
+**– Matt Mullenweg**
+
+---
+
+*"Code is poetry written for machines, but read by humans."*
+
+**– Philosophy of Ethical Development**
 
 </div>
 
