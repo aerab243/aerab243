@@ -35,7 +35,7 @@ Développeur **Full-Stack** passionné par la création de solutions **éthiques
 
 > Créer du code qui compte, des applications qui inspirent, et des solutions qui respectent la vie privée et l'environnement.
 
-### � Ce qui me motive
+### 💡 Ce qui me motive
 
 - 🔭 **Projets actuels**: Solutions full-stack éco-responsables et open source
 - 🌱 **Apprentissage continu**: Toujours à la pointe des technologies émergentes
@@ -83,12 +83,12 @@ Développeur **Full-Stack** passionné par la création de solutions **éthiques
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aerab243&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3&text_color=ffffff" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aerab243&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&text_color=ffffff" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aerab243&show_icons=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aerab243&layout=compact" alt="Top Languages" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aerab243&theme=tokyonight&hide_border=true&background=0D1117&stroke=2196F3&ring=2196F3&fire=FF5722&currStreakLabel=ffffff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aerab243" alt="GitHub Streak" />
 
-  <img src="https://github-profile-trophy.vercel.app/?username=aerab243&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aerab243" alt="GitHub Trophies" />
 
 </div>
 
@@ -113,13 +113,13 @@ Développeur **Full-Stack** passionné par la création de solutions **éthiques
 <div align="center">
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aerab243&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3&text_color=ffffff" alt="Repo 1" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aerab243&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3&text_color=ffffff" alt="Repo 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aerab243&repo=YOUR_REPO_1" alt="Repo 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aerab243&repo=YOUR_REPO_2" alt="Repo 2" />
   </p>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aerab243&repo=YOUR_REPO_3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3&text_color=ffffff" alt="Repo 3" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aerab243&repo=YOUR_REPO_4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3&text_color=ffffff" alt="Repo 4" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aerab243&repo=YOUR_REPO_3" alt="Repo 3" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aerab243&repo=YOUR_REPO_4" alt="Repo 4" />
   </p>
 
   <em>Mes repositories épinglés montrent mon engagement pour un code éthique et performant</em>
@@ -128,11 +128,11 @@ Développeur **Full-Stack** passionné par la création de solutions **éthiques
 
 ---
 
-## � Citation du moment
+## 💬 Citation du moment
 
 <div align="center">
 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" alt="Random Quote" />
 
   *"La technologie est mieux quand elle rapproche les gens."* — **Matt Mullenweg**
 
@@ -142,12 +142,16 @@ Développeur **Full-Stack** passionné par la création de solutions **éthiques
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7794cc03/bottom_header.svg" alt="Footer" />
+  <p>
+    <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7794cc03/bottom_header.svg" alt="Footer" />
+  </p>
 
   <p>
     Créé avec ❤️ par <a href="https://github.com/aerab243">aerab243</a>
   </p>
 
-  <img src="https://github.com/aerab243/aerab243/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <p>
+    <img src="https://raw.githubusercontent.com/saedx1/saedx1/main/images/Bottom.svg" alt="Snake Animation" />
+  </p>
 
 </div>
