@@ -1,106 +1,118 @@
-# 👋 Salut, je suis **aerab243**
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                         $ aerab243 @ home                        ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
-## 🚀 Développeur Full-Stack | Créateur de Solutions Éthiques
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&background=0D111700&center=true&vCenter=true&random=false&width=500&lines=$+whoami+%26%26+cat+~/description.txt" alt="Typing SVG" />
+</p>
 
-Développeur passionné par la création de solutions **éthiques** et **durables**. Je combine innovation technique et responsabilité sociale pour construire des applications qui ont un impact positif.
-
----
-
-## � À propos
-
-Je suis un développeur Full-Stack avec une expertise en développement backend et frontend. Mon approche privilégie :
-
-- **Code de qualité** : Clean code, tests rigoureux, architecture solide
-- **Éthique** : Respect de la vie privée, sécurité par design, RGPD compliant
-- **Durabilité** : Green coding, optimisation des performances
-- **Collaboration** : Open source, partage de connaissances, travail d'équipe
-
----
-
-## 🛠️ Stack Technique
-
-### Langages de programmation
-
-| Langage | Niveau | Utilisation |
-|---------|--------|-------------|
-| ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) C/C++ | Avancé | Systèmes, performance |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) Java | Avancé | Backend enterprise |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) Python | Avancé | Data, automation |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) JavaScript | Avancé | Frontend, Node.js |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) TypeScript | Intermédiaire | Frontend moderne |
-| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) PHP | Avancé | Backend web |
-
-### Frameworks & Technologies
-
-**Backend**
-- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white) Spring Boot
-- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) Laravel
-- ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white) Symfony
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) Node.js
-
-**Frontend**
-- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) React
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) HTML5
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) CSS3
-
-### DevOps & Outils
-
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) Git
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) Docker
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) Linux
-- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) VS Code
-
----
-
-## � Projets
-
-### Projets en cours
-
-- **Solutions full-stack éco-responsables** : Applications optimisées pour réduire l'empreinte carbone
-- **Contributions open source** : Participation à des projets éthiques et inclusifs
-
-### Intérêts techniques
-
-- Microservices architecture
-- API REST & GraphQL
-- Test-driven development
-- CI/CD pipelines
-- Cloud computing
-
----
-
-## 🌟 Valeurs
-
-| Valeur | Engagement |
-|--------|------------|
-| 🛡️ **Sécurité** | Code sécurisé par design, tests rigoureux |
-| 🌍 **Durabilité** | Green coding, optimisation énergétique |
-| 🤝 **Inclusivité** | Accessibilité, diversité, égalité |
-| 🔒 **Vie privée** | Privacy by design, RGPD compliant |
-
----
-
-## 📊 GitHub
-
-![GitHub followers](https://img.shields.io/github/followers/aerab243?style=social)
-![GitHub stars](https://img.shields.io/github/stars/aerab243?style=social)
-
----
-
-## 📬 Contact
-
-- **GitHub** : [aerab243](https://github.com/aerab243)
-- **LinkedIn** : [aerab243](https://linkedin.com/in/aerab243)
-- **Email** : [votre.email@example.com](mailto:votre.email@example.com)
-
----
-
-*"Le meilleur code respecte à la fois l'utilisateur et la planète."*
-
----
+```bash
+$ neofetch --theme catppuccin-mocha
+```
 
 <div align="center">
 
-**💡 Open to collaborations on ethical and sustainable tech projects**
+```
+     ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄      aerab243@archlinux
+    ██░░░░░░░░░░░░░░░██     ───────────────────
+    ██░░▄▄▄▄▄▄▄▄▄░░██     OS: Arch Linux x86_64
+    ██░░████████████░██     Host: Custom Build
+    ██░░████████████░██     Kernel: 6.8.y
+    ██░░████████████░██     Shell: zsh + tmux
+    ██░░████████████░██     Editor: Neovim
+    ██░░████████████░██     Terminal: Kitty
+    ██░░▀▀▀▀▀▀▀▀▀▀▀▀░██     CPU: AMD Ryzen 7
+     ▀██▄▄▄▄▄▄▄▄▄▄▄▄██      RAM: 32GB DDR5
+       ▀▀▀▀▀▀▀▀▀▀▀▀        GPU: NVIDIA RTX 4080
+```
 
 </div>
+
+---
+
+## 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aerab243&theme=radical&no-frame=true&no-bg=true&rank=SECRET,AAA,AA,A" alt="Trophy" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aerab243&theme=radical&background=0D1117" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aerab243&theme=radical&bg_color=0D1117&show_icons=true&icon_color=00FF41&text_color=00FF41&hide_border=true&rank_icon=github" alt="Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aerab243&layout=donut&theme=radical&bg_color=0D1117&hide_border=true" alt="Top Langs" />
+</p>
+
+---
+
+## 🛠️ Terminal Stack
+
+```text
+Languages   ██████████░░░░  Python, C/C++, Java, JS/TS, PHP
+Backend     ████████████░░  Spring Boot, Laravel, Symfony, Node.js
+Frontend    ██████████░░░░  React, Next.js, HTML, CSS, Tailwind
+Database    ████████░░░░░░  PostgreSQL, MySQL, MongoDB, Redis
+DevOps      ████████████░░  Docker, K8s, GitHub Actions, Linux
+Tools       ██████████████  Neovim, Git, Tmux, Linux, VS Code
+```
+
+---
+
+## 📦 Packages / Outils
+
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Zsh](https://img.shields.io/badge/Zsh-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Tmux](https://img.shields.io/badge/Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+## 🧪 Contributions Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aerab243&theme=radical&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" alt="Activity" />
+
+---
+
+## 💭 Quotes
+
+```text
+> "Any sufficiently advanced technology is indistinguishable from magic."
+                                                              — Arthur C. Clarke
+```
+
+---
+
+## 📡 Find me
+
+<p align="center">
+  <a href="https://github.com/aerab243"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/aerab243"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:votre.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Arch-Linux-1793D1?style=flat&logo=arch-linux&logoColor=white" alt="Arch"/>
+  <img src="https://img.shields.io/badge/Vim-%2311AB00.svg?style=flat&logo=vim&logoColor=white" alt="Vim"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TS"/>
+</p>
+
+---
+
+```bash
+# Last login: $(date)
+# Have you tried turning it off and on again?
+exit 0
+```
+
+<p align="center">
+  <sub><i>$ sudo rm -rf /problems 2>/dev/null; echo "No problems found."</i></sub>
+</p>
