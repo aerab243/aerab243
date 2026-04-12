@@ -1,8 +1,4 @@
-﻿<div align="center">
-  <img src="assets/banner.png" alt="Anna-el Gerard RABENANDRASANA - IT Manager & Cloud Architect" width="100%" style="border-radius: 10px;">
-</div>
-
-<h1 align="center">
+﻿<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D1FF&center=true&vCenter=true&width=900&lines=IT+Manager+%26+Cloud+Architect;Business+Analyst+%26+Strategist;Information+Systems+Designer;Digital+Transformation+Leader" alt="Typing SVG" />
 </h1>
 
@@ -392,4 +388,3 @@ Font        .  JetBrains Mono Nerd Font
   <br>
   <sub>Last updated: 2026-04-12</sub>
 </div>
-
