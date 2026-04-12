@@ -302,53 +302,6 @@ I am a **results-driven IT Manager & Business Analyst** with a passion for trans
 
 ---
 
-## Featured Projects
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <h3>Project Alpha</h3>
-      <p>Cloud-native microservices architecture</p>
-      <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws" />
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
-      <br>
-      <a href="https://github.com/aerab243"><img src="https://img.shields.io/badge/View_Repo-00D1FF?style=for-the-badge" /></a>
-    </td>
-    <td width="50%" align="center">
-      <h3>Project Beta</h3>
-      <p>Enterprise DevOps automation platform</p>
-      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform" />
-      <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible" />
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash" />
-      <br>
-      <a href="https://github.com/aerab243"><img src="https://img.shields.io/badge/View_Repo-00D1FF?style=for-the-badge" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h3>Project Gamma</h3>
-      <p>Real-time analytics & BI dashboard</p>
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi" />
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript" />
-      <br>
-      <a href="https://github.com/aerab243"><img src="https://img.shields.io/badge/View_Repo-00D1FF?style=for-the-badge" /></a>
-    </td>
-    <td width="50%" align="center">
-      <h3>Project Delta</h3>
-      <p>Infrastructure as Code framework</p>
-      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform" />
-      <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker" />
-      <br>
-      <a href="https://github.com/aerab243"><img src="https://img.shields.io/badge/View_Repo-00D1FF?style=for-the-badge" /></a>
-    </td>
-  </tr>
-</table>
-
----
-
 ## Collaborations & Opportunities
 
 <table width="100%">
@@ -439,3 +392,4 @@ Font        .  JetBrains Mono Nerd Font
   <br>
   <sub>Last updated: 2026-04-12</sub>
 </div>
+
